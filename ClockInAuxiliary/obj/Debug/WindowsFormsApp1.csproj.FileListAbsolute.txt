@@ -1,0 +1,10 @@
+E:\c#code\ClockInAuxiliary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\c#code\ClockInAuxiliary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\c#code\ClockInAuxiliary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\c#code\ClockInAuxiliary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClockInAuxiliary.exe.config
+E:\c#code\ClockInAuxiliary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClockInAuxiliary.exe
+E:\c#code\ClockInAuxiliary\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClockInAuxiliary.pdb
+E:\c#code\ClockInAuxiliary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ClockInAuxiliary.fmMain.resources
+E:\c#code\ClockInAuxiliary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ClockInAuxiliary.Properties.Resources.resources
+E:\c#code\ClockInAuxiliary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ClockInAuxiliary.exe
+E:\c#code\ClockInAuxiliary\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ClockInAuxiliary.pdb
